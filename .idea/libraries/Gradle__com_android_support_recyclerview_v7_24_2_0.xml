@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:recyclerview-v7-24.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/a088931f6693ab0c037dd430b929b27cb16d699e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a088931f6693ab0c037dd430b929b27cb16d699e/output/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.0/recyclerview-v7-24.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.0/recyclerview-v7-24.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
